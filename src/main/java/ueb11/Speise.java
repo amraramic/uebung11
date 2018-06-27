@@ -1,6 +1,6 @@
 package ueb11;
 
-public final class Speise {
+public final class Speise{
 	private final String name;
 
 	public Speise(String name) {
